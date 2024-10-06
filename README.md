@@ -1,1 +1,3 @@
-# kdjk-kelompok-3-p1
+# Project KDJK Kelompok 3 P1
+
+#Anggota kelompok
