@@ -1,14 +1,16 @@
 # OpenCart Project KDJK Kelompok 3 P1
 
 
-
-
-
 # Anggota kelompok
-
+Jesika Oktaviani
+Sindi Aprilianti
+Ammar Radhi Aziz Chan
+Muhammad Shidqi Abhinaya
+Chairul Rifky Tirtacahyadi
+Schin
 
 # Sekilas Tentang
-
+<summary> OpenCart merupakan sebuah aplikasi e-commerce dengan tagline "Add products and you're ready to start accepting orders" yang dilengkapi bagian Administrator Dashboard, User Management, Multi-Store, Options & Attributes, Affiliates, Discounts, Coupons, and Spesials, yang memudahkan user dalam berbelanja. </summary>
 
 # Instalasi
 <details> 
