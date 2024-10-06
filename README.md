@@ -1,7 +1,7 @@
-# OpenCart Project KDJK Kelompok 3 P1
+# OpenCart 
 
 
-# Anggota kelompok
+# Anggota kelompok 3 P1 Project KDJK
 | Nama | NIM |
 | -----| ----|
 | Jesika Oktaviani | G6401221038|
